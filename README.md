@@ -37,7 +37,6 @@ To print an `%` it has to be declared as `%%` or else it will be skipped.
 
 ### Examples
 Basic string printing function:
-Example cases:
 ```c
 char *str = "Hello World!";
 ft_printf(str);

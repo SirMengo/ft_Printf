@@ -55,7 +55,7 @@ ft_printf("I am %d years old.", i);
 ```
 
 ### Return value
-The ft_printf function will return the number of characters it has written.
+The ft_printf function will return the number of characters it has written as an integer
 
 ### Cleanup
 Remove object files:

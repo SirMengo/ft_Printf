@@ -14,7 +14,7 @@ To recompile everything, run:
 make re
 ```
 
-This will create a library called `libftprintf.
+This will create a library called `libftprintf`.
 
 ### Usage
 Simply call the function:
